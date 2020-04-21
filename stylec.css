@@ -1,0 +1,106 @@
+h2,h3,h4,h5{font-family: 'Libre Baskerville', serif;}
+body{background-image: url("imb1.jpg");
+ background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */}
+
+#title{
+background-image: url("imb1.jpg");
+ background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+padding: 3% 10% 5%
+}
+.igbar{border-radius: 40%;}
+.navbar-brand{font-family:cursive;}
+
+.start{text-align: center;}
+.h1-1{color:#323232;}
+
+.img_ea_co{border-radius: 100%;
+padding-top: 3%;
+width: 30%
+}
+
+
+
+#wcorona{/*background-color:#7e97a6;*/
+padding: 5% 10% 5%}
+
+.wpic{border-radius: 100%;
+width: 10%;
+float: left;}
+
+
+.wtisco{padding-bottom: 5%}
+
+.wrco{padding-left: 12%;
+padding-right: 5%}
+
+.sneez_pic{border-radius: 100%;
+width:10%;
+float: right;}
+
+.wsneez{padding-right: 8%}
+
+.clo{border-radius: 100%;
+width: 10%;
+float: left;}
+
+.co{padding-top: 5%;}
+
+#symptoms{/*background-color:#ecfcff;*/
+padding: 5% 10% 5%;}
+
+.symp{width:25%;
+border-radius: 100%}
+
+.symwrite{text-align: center;}
+
+ .pic1{padding: 3%;}
+
+ #prevention{/*background-color:#f7f7f7;*/
+   padding: 5% 10% 5%;
+ text-align: center;}
+
+ .previmg{width:30%;
+ border-radius: 100%;
+padding-top: 3%;}
+
+ .prehead{padding-bottom: 5%}
+
+ .hh5{padding-bottom: 5%;}
+
+ #maskimg{/*background-color:#ecfcff;*/
+   padding: 5% 10% 5%;
+ text-align: center;
+}
+.wmsk{padding-bottom: 5%;}
+
+.inmaskimg{width: 30%;
+border-radius: 15%;
+width:30%;}
+
+.mm1{width:100%;}
+
+.card{width: 20rem;}
+
+@media(min-width:1000px){.carousel{padding: 0% 32%;}}
+@media(max-width:1000px) and (min-width:760px){.carousel{padding: 0% 20%;}}
+@media(max-width:760px) and (min-width:13px){.carousel{padding: 0% 10%;}}
+
+
+#lastpart{/*background-color:#f7f7f7;*/
+  text-align: center;
+  padding:5% 10% 2%;
+}
+
+
+.earthfight{border-radius:100%;
+padding-top: 5%;}
+
+.butt1{padding: 2% 10%;}
+
+.lastw{padding-bottom: 1%}
+
+#footer{padding-top: 2%;}
